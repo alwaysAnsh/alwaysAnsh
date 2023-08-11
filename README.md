@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansh Jain</h1>
-<h3 align="center">A passionate learner and development enthusiast looking for great opportunities</h3>
+<h3 align="center">A passionate learner and development enthusiast... </h3>
+<br/>
+<img width ="1080px" height="480px" alt="Coding" width="400" src="https://imgs.search.brave.com/ww0tosCK9Ve44dRrMp5pA83Sb9ywr7POxlLor0mjMXg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bWtnaWZzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/MS9TYWQtQW5pbWUt/Qm95LUdJRi1taW4u/Z2lm.gif"/img>
+
 
 - 🔭 I’m currently working on **an Edtech Project**
 
