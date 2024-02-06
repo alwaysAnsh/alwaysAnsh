@@ -4,7 +4,7 @@
 <img width ="7200px" height="450px" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/75/3f/b7753f2e3cc26852bf094f7d30c665bd.gif"/img>
 
 
-- 🔭 I’m currently working on **an Edtech Project**
+- 🔭 I’m currently working on **a Real Estate Project**
 
 - 🌱 I’m currently learning **ReactJs, DSA and mySQL**
 
