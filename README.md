@@ -4,11 +4,11 @@
 <img width ="7200px" height="450px" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/75/3f/b7753f2e3cc26852bf094f7d30c665bd.gif"/img>
 
 
-- 🔭 I’m currently working on **a Real Estate Project**
+- 🔭 I’m currently working on **my startup**
 
-- 🌱 I’m currently learning **ReactJs, DSA and mySQL**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **React Node.js and DSA**
+- 💬 Ask me about **latest tech trends**
 
 - 📫 How to reach me **anshj9y@gmail.com**
 
