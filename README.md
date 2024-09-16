@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Jain</h1>
 <h3 align="center">A passionate learner and development enthusiast... </h3>
 <br/>
-<img width ="7200px" height="450px" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/75/3f/b7753f2e3cc26852bf094f7d30c665bd.gif"/img>
+<img width ="200px" height="150px" alt="Coding" width="400" src="https://media.tenor.com/oAl7KXjjaJ8AAAAi/mochi-cute.gif"/img>
 
 
 - 🔭 I’m currently working on **my startup**
