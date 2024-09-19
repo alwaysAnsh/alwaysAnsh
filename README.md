@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ansh Jain</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">A passionate learner and development enthusiast... </h3>
 <br/>
 <img width ="200px" height="150px" alt="Coding" width="400" src="https://media.tenor.com/oAl7KXjjaJ8AAAAi/mochi-cute.gif"/img>
